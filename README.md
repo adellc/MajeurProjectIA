@@ -1,5 +1,6 @@
 # MajeurProjectIA
-Projet de détection de somnolence et distraction au volant
+
+Projet de détection de somnolence et distraction au volant: Bonjour nous sommes trois élèves en école d'ingénieurs à l'ESME, Adèle Le Chevalier, Mathieu Leclercq et Gael Martins, et voici notre projet.
 
 La sécurité routière est un enjeu crucial de notre époque, avec les accidents de la route représentant une source majeure de décès et de blessures dans le monde entier. Parmi les nombreux facteurs contribuant à ces incidents, la distraction et la somnolence au volant sont des préoccupations critiques nécessitant une attention particulière. Ce rapport se concentre sur le développement d'une solution novatrice visant à détecter la distraction et la somnolence au volant, afin d'améliorer la sécurité des conducteurs et des passagers.
 
