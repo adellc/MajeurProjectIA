@@ -11,6 +11,3 @@ Ce rapport présente un aperçu du travail effectué, soulignant son importance 
 Nous espérons fournir une contribution significative à la sécurité routière en proposant une solution innovante et efficace pour détecter la distraction et la somnolence au volant, avec pour objectif ultime de sauver des vies et de prévenir les accidents sur nos routes.
 
 Deux grandes parties composent notre projet; la détection de somnolence et la détection des distraction.
-
-Pour pouvoir utiliser le programme il faut installer le modèle pré-entraîné sur ce github : https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
-
