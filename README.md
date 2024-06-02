@@ -12,4 +12,5 @@ Nous espérons fournir une contribution significative à la sécurité routière
 
 Deux grandes parties composent notre projet; la détection de somnolence et la détection des distraction.
 
+Pour pouvoir utiliser le programme il faut installer le modèle pré-entraîné sur ce github : https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat
 
